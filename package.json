@@ -18,7 +18,7 @@
     "htmlparser2"
   ],
   "dependencies": {
-    "dom-serializer": "0",
+    "dom-serializer": "git+https://github.com/cmarrero01/dom-serialize.git",
     "domelementtype": "1"
   },
   "devDependencies": {
