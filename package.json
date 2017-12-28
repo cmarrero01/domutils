@@ -22,9 +22,9 @@
     "domelementtype": "1"
   },
   "devDependencies": {
-    "htmlparser2": "~3.9.2",
+    "htmlparser2": "git+https://github.com/cmarrero01/htmlparser2.git",
     "domhandler": "2",
-    "jshint": "~2.9.4",
+    "jshint": "git+https://github.com/cmarrero01/jshint.git",
     "mocha": "~3.2.0"
   },
   "author": "Felix Boehm <me@feedic.com>",
